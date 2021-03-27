@@ -1,2 +1,2 @@
 # Control-Systems-Design
-Obtaining the configuration, specifications, and identification of the key parameters of a proposed system to meet an actual need
+Obtaining the configuration, specifications, and identification of the key parameters of a proposed system to meet an actual need as Lab Exercises - NTUA 2018-2019 
