@@ -1,6 +1,6 @@
 # Control-Systems-Design
 
-![1](https://user-images.githubusercontent.com/50829499/112726813-fc0ae100-8f27-11eb-8b93-fee6c6e06721.png)
+![1_50](https://user-images.githubusercontent.com/50829499/112726835-0d53ed80-8f28-11eb-93c4-5731b00f27e6.png)
 
 
 Obtaining the configuration, specifications, and identification of the key parameters of a proposed system to meet an actual need as Lab Exercises - NTUA 2018-2019 
